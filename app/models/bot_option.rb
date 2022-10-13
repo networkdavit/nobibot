@@ -1,0 +1,2 @@
+class BotOption < ApplicationRecord
+end
